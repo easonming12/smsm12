@@ -1,8 +1,3 @@
-## 为防止账号再次遭到封禁失联,有条（科学）件（上网）的可以加入TG交流群
-## TG交流群：https://t.me/jd_zero205
-## TG通知频道：https://t.me/jd_zero205_tz
-
-## ~~本仓库脚本已添加he1pu大佬互助池,自动提交互助码,随机互助~~（已取消）
 ## 为防止仓库再次被封，本仓库仅保留腾讯云函数、elecV2P两种方式运行
 ### 想继续使用AC运行的朋友请移步原仓库，没有大的更新随缘维护：https://github.com/zero205/JD  
 
@@ -171,22 +166,15 @@
 
 ## 通知频道 [https://t.me/jdfruit](https://t.me/jdfruit)
 
-## 赞赏码(开发维护不易,请赏杯茶水费)
+zero205
+Tsukasa007
+wuzhi04
+lukesyy
+Annyoo2021
 
-<div align=center><img width="250" height="250" src="./icon/thanks.jpg"/></div>
+https://github.com/zero205/JD_tencent_scf
+https://github.com/Tsukasa007/my_script/tree/master
+https://github.com/wuzhi04/MyActions
+https://github.com/lukesyy/jd_yun
+https://github.com/Annyoo2021/scripts
 
-
-## 特别感谢(排名不分先后)：
-
-
-* [@NobyDa](https://github.com/NobyDa)
-
-* [@chavyleung](https://github.com/chavyleung)
-
-* [@liuxiaoyucc](https://github.com/liuxiaoyucc)
-
-* [@Zero-S1](https://github.com/Zero-S1)
-
-* [@uniqueque](https://github.com/uniqueque)
-
-* [@nzw9314](https://github.com/nzw9314)
